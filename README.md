@@ -1,2 +1,2 @@
 # SMA-Simulattion
-SImulação de um SIstema Multiagente em funcionamento para Agenda Inteligente
+Simulação de um Sistema Multiagente em funcionamento para Agenda Inteligente
